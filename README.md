@@ -1,6 +1,6 @@
 <!-- GitHub Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm Richard Rizky Wowor</h1>
+<h1 align="center">Hi 👋, I'm OxCyrus</h1>
 <h3 align="center">Junior Web & Apps Developer</h3>
 
 <p align="center">
